@@ -19,3 +19,6 @@
 [submodule "ssh"]
 	path = ssh
 	url = https://github.com/spiette/puppet-ssh.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/puppetlabs/puppetlabs-dashboard.git
