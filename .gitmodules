@@ -55,3 +55,6 @@
 [submodule "snmp"]
 	path = snmp
 	url = https://github.com/razorsedge/puppet-snmp.git
+[submodule "locales"]
+	path = locales
+	url = https://github.com/attachmentgenie/puppet-module-locales.git
