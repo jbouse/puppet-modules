@@ -49,3 +49,6 @@
 [submodule "puppetdb"]
 	path = puppetdb
 	url = https://github.com/puppetlabs/puppetlabs-puppetdb.git
+[submodule "nullmailer"]
+	path = nullmailer
+	url = https://github.com/jbouse/puppet-nullmailer.git
