@@ -30,7 +30,7 @@
 	url = https://github.com/puppetlabs/puppetlabs-firewall.git
 [submodule "account"]
 	path = account
-	url = https://github.com/torrancew/puppet-account.git
+	url = https://github.com/jbouse/puppet-account.git
 [submodule "ntp"]
 	path = ntp
 	url = https://github.com/puppetlabs/puppetlabs-ntp.git
