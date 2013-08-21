@@ -25,3 +25,6 @@
 [submodule "passenger"]
 	path = passenger
 	url = https://github.com/puppetlabs/puppetlabs-passenger.git
+[submodule "firewall"]
+	path = firewall
+	url = https://github.com/puppetlabs/puppetlabs-firewall.git
