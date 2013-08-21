@@ -1,13 +1,4 @@
 class base::apt {
-  class {
-    '::apt':
-      purge_sources_list_d => true,
-      always_apt_update    => $::environment ? {
-        'production' => false,
-        default      => true
-      }
-  }
-
   apt::source {
     'puppetlabs':
       location   => 'http://apt.puppetlabs.com',
