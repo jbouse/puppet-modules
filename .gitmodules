@@ -22,3 +22,6 @@
 [submodule "dashboard"]
 	path = dashboard
 	url = https://github.com/puppetlabs/puppetlabs-dashboard.git
+[submodule "passenger"]
+	path = passenger
+	url = https://github.com/puppetlabs/puppetlabs-passenger.git
