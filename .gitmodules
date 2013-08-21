@@ -37,3 +37,6 @@
 [submodule "sudo"]
 	path = sudo
 	url = https://github.com/saz/puppet-sudo.git
+[submodule "nrpe"]
+	path = nrpe
+	url = https://github.com/proletaryo/puppet-nagios-nrpe.git
