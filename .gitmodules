@@ -52,3 +52,6 @@
 [submodule "nullmailer"]
 	path = nullmailer
 	url = https://github.com/jbouse/puppet-nullmailer.git
+[submodule "snmp"]
+	path = snmp
+	url = https://github.com/razorsedge/puppet-snmp.git
