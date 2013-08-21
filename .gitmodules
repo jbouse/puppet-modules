@@ -42,7 +42,7 @@
 	url = https://github.com/jbouse/puppet-nagios-nrpe.git
 [submodule "openvpn"]
 	path = openvpn
-	url = git://github.com/xaque208/puppet-openvpn.git
+	url = https://github.com/jbouse/puppet-openvpn.git
 [submodule "postgresql"]
 	path = postgresql
 	url = https://github.com/akumria/puppet-postgresql.git
