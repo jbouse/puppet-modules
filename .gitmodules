@@ -31,3 +31,6 @@
 [submodule "account"]
 	path = account
 	url = https://github.com/torrancew/puppet-account.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/puppetlabs/puppetlabs-ntp.git
