@@ -16,3 +16,6 @@
 [submodule "mysql"]
 	path = mysql
 	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "ssh"]
+	path = ssh
+	url = https://github.com/spiette/puppet-ssh.git
