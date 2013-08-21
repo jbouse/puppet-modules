@@ -1,4 +1,5 @@
 class base {
-  $accounts = hiera('accounts')
-  create_resources('account', $accounts)
+  $accounts = hiera_hash('accounts')
+  $account_defaults = hiera_hash('account_defaults')
+  create_resources('account', $accounts, $account_defaults)
 }
